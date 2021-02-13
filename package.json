@@ -3,7 +3,6 @@
   "version": "1.1.2102",
   "description": "Complete version of the NodeJS library for the new cryptographically secure BitPay API",
   "main": "src/index.js",
-  "type": "module",
   "files": [
     "dist"
   ],
