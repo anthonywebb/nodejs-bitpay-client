@@ -39,7 +39,6 @@
     "elliptic": "^6.5.4",
     "request": "^2.85.0",
     "request-promise": "^4.2.6",
-    "tiny-secp256k1": "^1.1.6",
     "underscore": "^1.12.0"
   },
   "devDependencies": {
